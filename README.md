@@ -1,6 +1,10 @@
 # Policy as Code
 
 Policy as Code (PaC) in DevSecOps refers to the practice of defining and managing security policies through code. This approach enables automated, consistent, and scalable enforcement of security controls and compliance requirements across the software development lifecycle. 
+![image](https://github.com/user-attachments/assets/38bfb1b3-a20b-4df0-9500-f560b89978a0)
+
+# Notes - Practicals - Output- Displayed in PDF Format
+
 
 ## Key Concepts of Policy as Code
 
